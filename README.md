@@ -5,8 +5,8 @@
 Este é um jogo de adivinhação de um número secreto, nele você perceberá:
 - `Funcionalidade 1`: A cada acerto o número é trocado por um novo;
 - `Funcionalidade 2`: As suas tentativas serão calculadas e apresentada ao final;
-- `Funcionalidade 2a`: Ao errar, você pode tentar novamente;
-- `Funcionalidade 3`: Ele indicará se o seu chute é maior ou menor que o número secreto.
+- `Funcionalidade 3`: Ao errar, você pode tentar novamente;
+- `Funcionalidade 4`: Ele indicará se o seu chute é maior ou menor que o número secreto.
 
 
 ### Um pouco mais sobre o projeto:
